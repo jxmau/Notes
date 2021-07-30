@@ -17,7 +17,7 @@ Class User(){
 	@Column(name="isenable") private boolean isEnabled;
 	private String role;
 
-	// Class Constructor (Empty and with args)
+	// Class Constructor (Empty and with parameters)
 	// Boilerplates
 	// toString method
 }

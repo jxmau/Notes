@@ -51,7 +51,7 @@ SET coumn_name = REPLACE (column, old_value, new_value);
 
 --Simple condition
 SELECT * FROM table_name
-WHERE name_column = 'name';
+WHERE name_column = 'name'
 
 --Multiple conditions 
 SELECT * FROM table_name

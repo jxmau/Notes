@@ -13,7 +13,7 @@ Those are my notes. You'll find in here cheat sheets, tutorials that I commented
 
 | Name | Description |
 |--|--|
-| util | Guide for using the util's java library. |
+| util | Guide for using the util library. |
 
 
 <h3>Spring Security </h3>
