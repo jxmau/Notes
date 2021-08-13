@@ -7,19 +7,19 @@ Those are my notes. You'll find in here cheat sheets, tutorials that I commented
 
 <h1> What are you searching? </h1>
 
-* [Java](/blob/main/java)
-    * [Basic](/blob/main/java/basics)
-        * [Util's Library Guide](/blob/main/basics/java/util)
-    * [Guide to deploy Java App](/blob/main/java/deploy.md)
-    * [Spring Security](/blob/main/java/spring-security)
-        * [BCryptPasswordEncoder](/blob/main/java/spring-secuirity/security-and-bcryptencoder.md)
-        * [Simple Configuration Guide](/blob/main/java/spring-secuirity/config-spring-security.md)
+* [Java](/java)
+    * [Basic](/java/basics)
+        * [Util's Library Guide](/java/basics/util)
+    * [Guide to deploy Java App](/java/deploy.md)
+    * [Spring Security](/java/spring-security)
+        * [BCryptPasswordEncoder](/java/spring-secuirity/security-and-bcryptencoder.md)
+        * [Simple Configuration Guide](/java/spring-secuirity/config-spring-security.md)
         
-    * [Spring Web](/blob/main/java/spring-web)
-        * [Spring Reactive RESTful Web App](/blob/main/java/spring-web/spring-reactive-rest-web-app.md)
-    * [Thymeleaf Cheat Sheet](/blob/main/java/thymeleaf-cheat-sheet.md)
-* [Rust](/blob/main/rust)
-    * [Collections](/blob/main/collections.md)
+    * [Spring Web](/java/spring-web)
+        * [Spring Reactive RESTful Web App](/java/spring-web/spring-reactive-rest-web-app.md)
+    * [Thymeleaf Cheat Sheet](/java/thymeleaf-cheat-sheet.md)
+* [Rust](/rust)
+    * [Collections](/collections.md)
 
 
 <h2>Java</h2>
