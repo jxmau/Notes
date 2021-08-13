@@ -12,8 +12,8 @@ Those are my notes. You'll find in here cheat sheets, tutorials that I commented
         * [Util's Library Guide](/java/basics/util)
     * [Guide to deploy Java App](/java/deploy.md)
     * [Spring Security](/java/spring-security)
-        * [BCryptPasswordEncoder](/java/spring-secuirity/security-and-bcryptencoder.md)
-        * [Simple Configuration Guide](/java/spring-secuirity/config-spring-security.md)
+        * [BCryptPasswordEncoder](/java/spring-security/security-and-bcryptencoder.md)
+        * [Simple Configuration Guide](/java/spring-security/config-spring-security.md)
         
     * [Spring Web](/java/spring-web)
         * [Spring Reactive RESTful Web App](/java/spring-web/spring-reactive-rest-web-app.md)
