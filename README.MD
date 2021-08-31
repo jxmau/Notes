@@ -13,9 +13,14 @@ Those are my notes. You'll find in here cheat sheets, tutorials that I commented
 * [Git](/git)
     * [Git's common commands](/git/git-cheat-sheet.md)
     * [Guide to link a local repo to a remote repo](/git/git-remote-repo.md)
-* [Java](/java)
+
+* [Java](/java) : [Cheat Sheet and Main Questions](/java/java-sheat-sheet.md)
+
     * [Basic](/java/basics)
-        * [Util's Library Guide](/java/basics/util)
+        * [Arrays and Collections](/java/basics/iterables.md)
+        * [String and String Related Object](/java/basics/strings.md)
+        * [Util's Library Guide](/java/basics/util.md)
+        * [Workflow](/java/basics/workflow.md)
     * [Guide to deploy Java App](/java/deploy.md)
     * [Spring Security](/java/spring-security)
         * [BCryptPasswordEncoder](/java/spring-security/security-and-bcryptencoder.md)
@@ -26,3 +31,6 @@ Those are my notes. You'll find in here cheat sheets, tutorials that I commented
     * [Thymeleaf Cheat Sheet](/java/thymeleaf-cheat-sheet.md)
 * [Rust](/rust)
     * [Collections](/rust/collections.md)
+    * [Control Flow : If-Else | For | While](/rust/control-flow.md)
+    * [How to automate test](/rust/test.md)
+    * [Input-Output Library](/rust/std::io.md)

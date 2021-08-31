@@ -33,7 +33,7 @@
 
 ```
 
-    - Get a var
+- Get a var
 
 ```rust
 
@@ -47,11 +47,10 @@
 # HashMap 
 
 ```rust
-
+// Import instruction
 use std::collections::HashMap;
-
 ```
-    * Create an HashMap
+* Create an HashMap
 
 ```rust 
 
@@ -67,9 +66,9 @@ use std::collections::HashMap;
 
 ```
 
-    * Data manipulation
+* Data manipulation
 
-        - Add
+    - Add
 
 ```rust 
 
