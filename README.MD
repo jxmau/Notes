@@ -14,10 +14,12 @@ Those are my notes. You'll find in here cheat sheets, tutorials that I commented
     * [Git's common commands](/git/git-cheat-sheet.md)
     * [Guide to link a local repo to a remote repo](/git/git-remote-repo.md)
 
-* [Java](/java) : [Cheat Sheet and Main Questions](/java/java-sheat-sheet.md)
+* [Java](/java) : [Cheat Sheet and Main Questions](/java/java-cheat-sheet.md)
 
     * [Basic](/java/basics)
         * [Arrays and Collections](/java/basics/iterables.md)
+        * [Enum's guide](/java/basics/enum.md)
+        * [Input - Output](/java/basics/IO.md)
         * [String and String Related Object](/java/basics/strings.md)
         * [Util's Library Guide](/java/basics/util.md)
         * [Workflow](/java/basics/workflow.md)
