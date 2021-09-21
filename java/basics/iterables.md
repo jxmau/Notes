@@ -73,6 +73,19 @@ integers.remove((Integer) 1);
 
 ```
 
+<h3> Remove if from collection </h3>
+
+```java 
+
+// To remove when isDone() is true.
+list.removeIf(Task::isDone);
+
+// To remove when isDone() is false.
+list.removeIf(Predicate.not(Task::isDone));
+
+```
+
+
 <h2> Map </h2>
 
 <h3> Create a Map </h3>
