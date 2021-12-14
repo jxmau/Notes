@@ -1,5 +1,18 @@
 This sheet assembles main SQL command line.
 
+
+| What to do | Command |
+| ---------- | ------- |
+| Select | SELECT * FROM <table>|
+| Create a Table| CREATE TABLE <name>(<column_name> <type> <option>) |
+| Insert a row | INSERT INTO <table> ( <columns> ) VALUES ( <values>) |
+| Delete all rows | DELETE FROM <table> |
+| Delete rows | DELETE FROM <table> WHERE <cond>|
+| Add a column | ALTER TABLE <table> ADD <column_name> <type> |
+| | |
+| | |
+| | |
+
 # Create a database
 
 ```SQL
